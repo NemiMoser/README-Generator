@@ -8,12 +8,16 @@ https://img.shields.io/badge/License-MIT-yellow.svg
 This is an application created to showcase the use of Node JS and to create a README.md file using only the terminal.
 
 ## Table of Contents
+- [Video Demonstration](#video-demonstration)
 - [Installation Instructions](#installation-instructions)
 - [Usage Information](#usage-information)
 - [Contribution Guidelines](#contribution-guidelines)
 - [Test Instructions](#test-instructions)
 - [License](#license)
 - [Questions](#questions)
+
+## Video Demonstration
+[link]
 
 ## Installation Instructions
 In order to deploy the application, go to the terminal and enter “node npm install”. Once that has been installed, enter “node index.js” and the questions will begin.
