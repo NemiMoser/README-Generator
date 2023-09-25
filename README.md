@@ -8,10 +8,10 @@ https://img.shields.io/badge/License-MIT-yellow.svg
 This is an application created to showcase the use of Node JS and to create a README.md file using only the terminal.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [Test](#test)
+- [Installation Instructions](#installation-instructions)
+- [Usage Information](#usage-information)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Test Instructions](#test-instructions)
 - [License](#license)
 - [Questions](#questions)
 
@@ -32,6 +32,6 @@ Follow the prompts and provide the required input as instructed by the applicati
 This project is licensed under the MIT License.
 
 ## Questions
-
+For further questions, please reach out to me:
 - GitHub: [NemiMoser](https://github.com/NemiMoser)
 - Email: nohemi.moser@gmail.com
