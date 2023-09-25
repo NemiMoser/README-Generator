@@ -173,7 +173,7 @@ ${data.installation}
 ## Usage Information
 ${data.usage}
 
-## Constribution Guidelines
+## Contribution Guidelines
 ${data.contribution}
 
 ## Test Instructions
