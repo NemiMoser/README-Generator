@@ -1,7 +1,7 @@
 
 # README Challenge
 
-https://img.shields.io/badge/License-MIT-yellow.svg
+https://img.shields.io/badge/License-MIT-yellow.svg 
 
 ## Description
 
@@ -17,7 +17,7 @@ This is an application created to showcase the use of Node JS and to create a RE
 - [Questions](#questions)
 
 ## Video Demonstration
-[https://drive.google.com/file/d/1Horyz7Krr3PRPklocbk8HzNMcp4-3nvL/preview]
+https://drive.google.com/file/d/1Horyz7Krr3PRPklocbk8HzNMcp4-3nvL/preview 
 
 ## Installation Instructions
 In order to deploy the application, go to the terminal and enter “node npm install”. Once that has been installed, enter “node index.js” and the questions will begin.
